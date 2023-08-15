@@ -1,4 +1,4 @@
-# Running Python Code
+ex# Running Python Code
 
 ## Learning Goals
 
@@ -14,7 +14,7 @@
 
 - **Interpreter**: a program that executes other programs. Python programs
 require the Python interpreter to be installed on your computer so that they
-can be run.
+can be run. 
 - **Python Shell**: an interactive interpreter that can be accessed from the
 command line.
 - **Data Type**: a specific kind of data. The Python interpreter uses these
